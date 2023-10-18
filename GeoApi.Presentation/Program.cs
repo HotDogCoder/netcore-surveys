@@ -65,7 +65,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowSpecificOrigins",
         builder =>
         {
-            builder.WithOrigins("http://localhost:3000")
+            builder.WithOrigins("http://localhost:3000", "https://surveysapp.acidjelly.com", "https://www.surveysapp.acidjelly.com")
                    .AllowAnyHeader()
                    .AllowAnyMethod()
                    .AllowCredentials();
