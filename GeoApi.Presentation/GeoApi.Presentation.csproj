@@ -27,6 +27,7 @@
 
   <ItemGroup>
     <None Remove="Helpers\" />
+    <None Remove="Properties\PublishProfiles\FolderProfile.pubxml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Helpers\" />

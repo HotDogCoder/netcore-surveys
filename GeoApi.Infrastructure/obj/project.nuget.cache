@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BFuG8FtXrYxDDeEcCYhtSWpqXvCaXiAOVvXyhhqZd2H4hUSX6jqA+XLMq4FRGTnPyu1FEzqwcItYiZ1uwmztuQ==",
+  "dgSpecHash": "j0UrLRiaLkbCoXuOLQUMmrofb/S21JXLXFV0Jo3cUYH5LdtktgfIdwO/2fSnwsgq7Kf8C6YDPhkSPQpUu3ILrA==",
   "success": true,
-  "projectFilePath": "/Users/ditsy/NetCoreProjects/react-netcore-jwt-localstorage/net7-core-vs2022/GeoApi.Infrastructure/GeoApi.Infrastructure.csproj",
+  "projectFilePath": "/Users/ditsy/NetCoreProjects/net7-core-vs2022/GeoApi.Infrastructure/GeoApi.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/ditsy/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
     "/Users/ditsy/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
@@ -39,7 +39,6 @@
     "/Users/ditsy/.nuget/packages/npgsql.entityframeworkcore.postgresql/7.0.11/npgsql.entityframeworkcore.postgresql.7.0.11.nupkg.sha512",
     "/Users/ditsy/.nuget/packages/system.codedom/4.4.0/system.codedom.4.4.0.nupkg.sha512",
     "/Users/ditsy/.nuget/packages/system.identitymodel.tokens.jwt/7.0.2/system.identitymodel.tokens.jwt.7.0.2.nupkg.sha512",
-    "/Users/ditsy/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/Users/ditsy/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
     "/Users/ditsy/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
   ],

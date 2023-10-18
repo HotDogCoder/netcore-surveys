@@ -1,0 +1,3 @@
+/Users/ditsy/NetCoreProjects/net7-core-vs2022/GeoApi.Domain/bin/Release/net7.0/publish/GeoApi.Domain.dll
+/Users/ditsy/NetCoreProjects/net7-core-vs2022/GeoApi.Domain/bin/Release/net7.0/publish/GeoApi.Domain.deps.json
+/Users/ditsy/NetCoreProjects/net7-core-vs2022/GeoApi.Domain/bin/Release/net7.0/publish/GeoApi.Domain.pdb

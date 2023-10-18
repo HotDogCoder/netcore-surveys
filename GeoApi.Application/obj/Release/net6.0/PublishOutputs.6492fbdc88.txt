@@ -1,0 +1,14 @@
+/Users/ditsy/NetCoreProjects/net7-core-vs2022/GeoApi.Application/bin/Release/net6.0/publish/GeoApi.Application.dll
+/Users/ditsy/NetCoreProjects/net7-core-vs2022/GeoApi.Application/bin/Release/net6.0/publish/GeoApi.Application.deps.json
+/Users/ditsy/NetCoreProjects/net7-core-vs2022/GeoApi.Application/bin/Release/net6.0/publish/GeoApi.Application.pdb
+/Users/ditsy/NetCoreProjects/net7-core-vs2022/GeoApi.Application/bin/Release/net6.0/publish/BCrypt.Net-Next.dll
+/Users/ditsy/NetCoreProjects/net7-core-vs2022/GeoApi.Application/bin/Release/net6.0/publish/Microsoft.Extensions.Configuration.dll
+/Users/ditsy/NetCoreProjects/net7-core-vs2022/GeoApi.Application/bin/Release/net6.0/publish/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ditsy/NetCoreProjects/net7-core-vs2022/GeoApi.Application/bin/Release/net6.0/publish/Microsoft.Extensions.Primitives.dll
+/Users/ditsy/NetCoreProjects/net7-core-vs2022/GeoApi.Application/bin/Release/net6.0/publish/Microsoft.IdentityModel.Abstractions.dll
+/Users/ditsy/NetCoreProjects/net7-core-vs2022/GeoApi.Application/bin/Release/net6.0/publish/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ditsy/NetCoreProjects/net7-core-vs2022/GeoApi.Application/bin/Release/net6.0/publish/Microsoft.IdentityModel.Logging.dll
+/Users/ditsy/NetCoreProjects/net7-core-vs2022/GeoApi.Application/bin/Release/net6.0/publish/Microsoft.IdentityModel.Tokens.dll
+/Users/ditsy/NetCoreProjects/net7-core-vs2022/GeoApi.Application/bin/Release/net6.0/publish/System.IdentityModel.Tokens.Jwt.dll
+/Users/ditsy/NetCoreProjects/net7-core-vs2022/GeoApi.Application/bin/Release/net6.0/publish/GeoApi.Domain.dll
+/Users/ditsy/NetCoreProjects/net7-core-vs2022/GeoApi.Application/bin/Release/net6.0/publish/GeoApi.Domain.pdb

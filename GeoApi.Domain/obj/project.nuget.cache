@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WtaDJ+mTKGGIHjJKCEgkyix3EoXf14QSMhZPMMx3mulDBVrVTc7tuJs4fYUiirgQwE8UPdQOEjkkum0AfDRCyw==",
+  "dgSpecHash": "Ma7vn+EzEB48LI/KFxBt1REsF7/pjiECHzuFxNvmCCr6EH+yv/D1LjXMG9DZM2NVrpuJdpvVDHTzuv0rwQLpFA==",
   "success": true,
-  "projectFilePath": "/Users/ditsy/NetCoreProjects/react-netcore-jwt-localstorage/net7-core-vs2022/GeoApi.Domain/GeoApi.Domain.csproj",
+  "projectFilePath": "/Users/ditsy/NetCoreProjects/net7-core-vs2022/GeoApi.Domain/GeoApi.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

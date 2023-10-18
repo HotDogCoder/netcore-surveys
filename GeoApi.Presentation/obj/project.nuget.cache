@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jOk4nYCRVTO26bNKr0BSxTS/aouUr5xyK1r9U6W4ALqtLYe7+bIepDRB0qhsGfT1p5+SEBvbDeRKmW4ridY+Kw==",
+  "dgSpecHash": "MiMCS6yBo5ZaWClXgUjC5vAxbIp6HeMZDSFnnzC6NMGu5+EF6biGkP72WQQe1KUse7I88QPlo4gKgmpk+vUtTA==",
   "success": true,
-  "projectFilePath": "/Users/ditsy/NetCoreProjects/react-netcore-jwt-localstorage/net7-core-vs2022/GeoApi.Presentation/GeoApi.Presentation.csproj",
+  "projectFilePath": "/Users/ditsy/NetCoreProjects/net7-core-vs2022/GeoApi.Presentation/GeoApi.Presentation.csproj",
   "expectedPackageFiles": [
     "/Users/ditsy/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
     "/Users/ditsy/.nuget/packages/maxmind.db/4.0.0/maxmind.db.4.0.0.nupkg.sha512",
